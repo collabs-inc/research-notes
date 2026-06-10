@@ -110,6 +110,8 @@ A map of content for understanding how AI agents remember, retrieve, and reason 
 
 * [[Claude-Mem]] -- 79K stars, user-integrated memory with real retrieval, portable despite Claude branding
 
+* [[Codex-Maxxing]] -- Jason Liu's knowledge-work setup; vault-as-memory with git diff as the review interface
+
 ## Analysis
 
 * [[User-Integrated Memory Gap]] -- the missing product category between grassroots and middleware
